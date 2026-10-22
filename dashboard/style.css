@@ -1,0 +1,436 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'Inter', sans-serif;
+}
+
+.stApp {
+    background: linear-gradient(135deg, #f4faf3 0%, #ffffff 45%, #f4faf3 100%);
+    color: #1e293b;
+}
+
+section[data-testid="stSidebar"] {
+    background: #1f6b32;
+    border-right: 1px solid rgba(106, 187, 58, 0.25);
+}
+
+section[data-testid="stSidebar"] * {
+    color: #ecfdf5 !important;
+}
+
+.kpi-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-left: 4px solid #6abb3a;
+    border-radius: 10px;
+    padding: 16px 18px;
+    box-shadow: 0 2px 10px rgba(41, 130, 62, 0.06);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    text-align: left;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.kpi-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(41, 130, 62, 0.16);
+}
+
+.kpi-icon-box {
+    flex: 0 0 auto;
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #6abb3a, #29823e);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kpi-icon {
+    font-size: 1.5rem;
+    line-height: 1;
+}
+
+.kpi-text {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.kpi-value {
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: #29823e;
+    line-height: 1.15;
+}
+
+.kpi-label {
+    font-size: 0.74rem;
+    font-weight: 600;
+    color: #475569;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-top: 2px;
+}
+
+.kpi-sub {
+    font-size: 0.72rem;
+    color: #64748b;
+    margin-top: 1px;
+}
+
+.kpi-churn .kpi-value {
+    color: #dc2626;
+}
+
+.kpi-card.kpi-churn {
+    border-left-color: #ef4444;
+}
+
+.kpi-card.kpi-churn .kpi-icon-box {
+    background: linear-gradient(135deg, #f87171, #dc2626);
+}
+
+.kpi-active .kpi-value {
+    color: #29823e;
+}
+
+.kpi-card.kpi-active .kpi-icon-box {
+    background: linear-gradient(135deg, #6abb3a, #1f6b32);
+}
+
+.section-header {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #154a24;
+    padding: 8px 0 4px;
+    border-bottom: 2px solid #6abb3a;
+    margin-bottom: 16px;
+}
+
+.page-title {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #1f6b32;
+    margin-bottom: 4px;
+}
+
+.page-subtitle {
+    color: #64748b;
+    margin-top: 6px;
+    font-size: 1rem;
+}
+
+.data-updated-badge {
+    display: inline-block;
+    margin-top: 10px;
+    background: #f2faf0;
+    border: 1px solid #cfead2;
+    color: #1f6b32;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 4px 12px;
+    border-radius: 999px;
+}
+
+.reason-box {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 16px 18px;
+    margin: 8px 0 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+}
+
+.reason-box-title {
+    font-size: 1.05rem;
+    color: #154a24;
+    margin-bottom: 10px;
+}
+
+.reason-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.reason-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 6px 0;
+    font-size: 0.95rem;
+    border-bottom: 1px dashed #e2e8f0;
+}
+
+.reason-item:last-child {
+    border-bottom: none;
+}
+
+.reason-negative {
+    color: #991b1b;
+}
+
+.reason-positive {
+    color: #1f6b32;
+}
+
+.reason-neutral {
+    color: #475569;
+}
+
+.pred-churn {
+    background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
+    border: 1px solid #fca5a5;
+    border-radius: 16px;
+    padding: 24px;
+    text-align: center;
+}
+
+.pred-active {
+    background: linear-gradient(135deg, #f2faf0 0%, #dcf3d5 100%);
+    border: 1px solid #a3d98f;
+    border-radius: 16px;
+    padding: 24px;
+    text-align: center;
+}
+
+.pred-title {
+    font-size: 1.6rem;
+    font-weight: 800;
+    margin-bottom: 6px;
+}
+
+.pred-prob {
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1;
+}
+
+.pred-sub {
+    font-size: 0.85rem;
+    color: #475569;
+    margin-top: 8px;
+}
+
+/* ── Chart panels (gaya "x_panel" ala Gentelella) ───────── */
+div[data-testid="stVerticalBlock"] div[data-testid="element-container"]:has(div[data-testid="stPlotlyChart"]) {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 14px 16px 6px;
+    box-shadow: 0 2px 10px rgba(15, 23, 42, 0.04);
+    margin-bottom: 14px;
+}
+
+.stTabs [data-baseweb="tab-list"] {
+    background: #f0f7ee;
+    border-radius: 12px;
+    padding: 4px;
+    gap: 4px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    border-radius: 8px;
+    color: #475569;
+    font-weight: 500;
+}
+
+.stTabs [aria-selected="true"] {
+    background: #dcf3d5 !important;
+    color: #1f6b32 !important;
+    font-weight: 700 !important;
+}
+
+.stButton > button {
+    background: #29823e !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 24px !important;
+    font-weight: 600 !important;
+    padding: 10px 24px !important;
+    transition: all 0.2s ease !important;
+}
+
+.stButton > button:hover {
+    background: #1f6b32 !important;
+    transform: translateY(-1px) !important;
+}
+
+.risk-high {
+    background: #fef2f2;
+    border-left: 4px solid #ef4444;
+    color: #991b1b;
+    padding: 12px 16px;
+    border-radius: 0 8px 8px 0;
+    margin: 8px 0;
+}
+
+.risk-medium {
+    background: #fffbe5;
+    border-left: 4px solid #f59e0b;
+    color: #92400e;
+    padding: 12px 16px;
+    border-radius: 0 8px 8px 0;
+    margin: 8px 0;
+}
+
+.risk-low {
+    background: #f2faf0;
+    border-left: 4px solid #6abb3a;
+    color: #1f6b32;
+    padding: 12px 16px;
+    border-radius: 0 8px 8px 0;
+    margin: 8px 0;
+}
+
+div[data-testid="metric-container"] {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 12px 16px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+}
+
+div[data-testid="metric-container"] label {
+    color: #29823e !important;
+}
+
+div[data-testid="metric-container"] [data-testid="stMetricValue"] {
+    color: #0f172a !important;
+}
+
+/* ── Sidebar branding ───────────────────────── */
+.sidebar-header {
+    text-align: center;
+    padding: 20px 0 16px;
+}
+
+.sidebar-logo {
+    width: 92px;
+    height: auto;
+    margin: 0 auto 10px;
+    display: block;
+    border-radius: 12px;
+    background: #ffffff;
+    padding: 8px;
+}
+
+.sidebar-title {
+    font-size: 1.15rem;
+    font-weight: 800;
+    color: #ffffff;
+    line-height: 1.25;
+}
+
+.sidebar-subtitle {
+    font-size: 0.78rem;
+    font-style: italic;
+    color: #b9e6a1;
+    margin-top: 2px;
+}
+
+.sidebar-info {
+    font-size: 0.75rem;
+    color: #d1fae5;
+}
+
+.sidebar-info b {
+    color: #b9e6a1;
+}
+
+/* ── Sidebar list navigation (button-based) ─── */
+.nav-group-label {
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #9fd98a !important;
+    padding: 14px 4px 4px;
+    margin: 0;
+}
+
+section[data-testid="stSidebar"] div[data-testid="stVerticalBlock"] div[data-testid="stButton"] {
+    margin-bottom: 2px;
+}
+
+section[data-testid="stSidebar"] div[data-testid="stButton"] > button {
+    width: 100%;
+    text-align: left;
+    justify-content: flex-start;
+    background: transparent !important;
+    color: #ecfdf5 !important;
+    border: none !important;
+    border-radius: 8px !important;
+    box-shadow: none !important;
+    font-weight: 500 !important;
+    padding: 8px 12px !important;
+}
+
+section[data-testid="stSidebar"] div[data-testid="stButton"] > button:hover {
+    background: rgba(255, 255, 255, 0.08) !important;
+    transform: none !important;
+}
+
+section[data-testid="stSidebar"] div[data-testid="stButton"] > button[kind="primary"] {
+    background: rgba(255, 255, 255, 0.16) !important;
+    color: #ffffff !important;
+    font-weight: 700 !important;
+    box-shadow: inset 3px 0 0 #6abb3a !important;
+}
+
+.footer-container {
+    text-align: center;
+    padding: 32px 0 8px;
+    color: #64748b;
+    font-size: 0.8rem;
+}
+
+.footer-hr {
+    border-color: #e2e8f0;
+    margin-bottom: 16px;
+}
+
+.footer-accent {
+    color: #29823e;
+    font-weight: 700;
+}
+
+/* ── CRM Opportunity & Notes styling ───────── */
+.crm-item {
+    padding: 12px 16px;
+    border-radius: 8px;
+    font-size: 0.93rem;
+    line-height: 1.55;
+    margin-bottom: 8px;
+}
+
+.crm-opp-item {
+    background: #ffffff;
+    border: 1px solid #d1fae5;
+    border-left: 4px solid #29823e;
+    color: #1e293b;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
+}
+
+.crm-notes-item {
+    background: #fffdf5;
+    border: 1px solid #fef08a;
+    border-left: 4px solid #f59e0b;
+    color: #334155;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.02);
+}
+
+.crm-note-header {
+    font-size: 0.82rem;
+    color: #92400e;
+    margin-bottom: 4px;
+    font-weight: 600;
+}
+
+.crm-note-body {
+    font-size: 0.93rem;
+    color: #1e293b;
+}

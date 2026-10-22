@@ -1,0 +1,636 @@
+Customer,churn_flag,last_end_date,risk_prob
+ANDRI PRAYOGO,1,2026-07-12 08:19:17,0.9585241508930331
+ANTONI LASIO,1,2026-06-16 06:00:00,0.9706310285668909
+BNI DENPASAR KC BIMA - Rental Mobil,0,2027-01-12 12:56:57,0.2807624299400336
+BNI DENPASAR KC DENPASAR,0,2027-01-12 14:36:27,0.1097954195804067
+BNI DENPASAR KC ENDE - Rental Mobil,0,2027-01-12 13:11:59,0.09738771098098895
+BNI DENPASAR KC KUPANG - Rental Mobil,0,2027-01-12 12:35:32,0.09607586102828436
+BNI DENPASAR KC MATARAM - Rental Mobil,0,2027-01-12 13:05:34,0.2487821436594551
+BNI DENPASAR KC MAUMERE - Rental Mobil,0,2027-01-12 13:13:49,0.08534627073673273
+BNI DENPASAR KC RENON - Rental Mobil,0,2027-01-12 13:17:41,0.10340974637006803
+BNI DENPASAR KC SUMBAWA BESAR - Rental Mobil,0,2027-01-12 13:09:12,0.09374329936638265
+BNI DENPASAR LNC DENPASAR - Rental Mobil,0,2027-01-12 14:32:02,0.08503454263455301
+BNI DENPASAR RAH 2 NTB (KANWIL 08) - Rental Mobil,0,2027-01-12 13:02:23,0.17044608350638207
+BNI DENPASAR RAH 3 NTT (KANWIL 08) - Rental Mobil,0,2027-01-12 12:38:39,0.2023306151638622
+BNI DENPASAR RCC DENPASAR - Rental Mobil,0,2027-01-12 13:16:05,0.10093697021776497
+BNI Denpasar KC Singaraja,0,2027-01-12 14:34:48,0.11441169473063428
+BNI Denpasar RAH 1 Bali (Kanwil 08) - Rental Mobil,0,2027-01-12 13:19:18,0.18085123304315798
+BNI Denpasar RECO (Kanwil 08) - Rental Mobil,0,2027-01-12 13:21:25,0.13686878342505332
+BNI Kanwil 17 Jogjakarta-Rental Kendaraan,1,2025-07-21 10:26:05,0.9966540875864567
+BPJS Kantor Kedeputian Wilayah I Medan - Rental Mobil,0,2027-08-22 13:17:15,0.05455520148247385
+BPJS Kedeputian Bali - Rental Mobil,1,2025-09-01 07:00:00,0.8675016159866453
+BPJS Kedeputian Papua & Papua Barat-Rental Kendaraan - Rental Mobil,1,2025-05-06 07:00:00,0.8748169639160579
+BPJS Kesehatan Cabang Balikpapan,0,2028-05-20 08:32:02,0.03305957608702677
+BPJS Kesehatan Cabang Bandung - Rental Mobil,0,2027-06-01 11:56:08,0.04019317111291189
+BPJS Kesehatan Cabang Banjar - Rental Mobil,0,2027-11-29 13:57:21,0.05702380795089669
+BPJS Kesehatan Cabang Banjarmasin,0,2028-08-12 07:36:48,0.01640098324569977
+BPJS Kesehatan Cabang Baubau - Rental Mobil,0,2028-07-04 08:57:20,0.09265232999888938
+BPJS Kesehatan Cabang Bengkulu - Rental Mobil,0,2027-06-15 10:29:34,0.06490091256038807
+BPJS Kesehatan Cabang Biak Numfor - Rental,0,2028-12-30 17:29:15,0.02773152769751207
+BPJS Kesehatan Cabang Boyolali - Rental,0,2028-05-01 11:55:36,0.09828051446862536
+BPJS Kesehatan Cabang Bukittinggi - Rental,0,2028-07-01 17:10:09,0.009371455567174619
+BPJS Kesehatan Cabang Bulukumba - Rental,0,2029-01-01 12:31:13,0.12610155765432768
+BPJS Kesehatan Cabang Cimahi - Rental Mobil,0,2027-06-01 13:05:41,0.047402794086662904
+BPJS Kesehatan Cabang Curup - Rental Mobil,0,2027-07-15 17:07:11,0.13673477091830066
+BPJS Kesehatan Cabang Dumai - Rental Mobil,0,2028-06-12 15:50:32,0.014665319010949088
+BPJS Kesehatan Cabang Gorontalo - Rental Mobil,0,2029-10-05 10:21:15,0.20305146851187658
+BPJS Kesehatan Cabang Jambi - Rental,0,2028-07-02 16:58:57,0.02293546088027844
+BPJS Kesehatan Cabang Kebumen - Rental,0,2028-04-01 11:45:38,0.12059109784755126
+BPJS Kesehatan Cabang Kendari - Rental Mobil,0,2029-06-01 10:48:58,0.019607702151171025
+BPJS Kesehatan Cabang Kudus - Rental,0,2028-05-01 11:27:20,0.10800479707718502
+BPJS Kesehatan Cabang Lubuklinggau - Rental Mobil,0,2028-08-01 15:38:31,0.0638996316651266
+BPJS Kesehatan Cabang Luwuk - Rental,0,2029-08-21 14:39:59,0.00947815555967393
+BPJS Kesehatan Cabang Makale - Rental Mobil,0,2028-06-01 15:21:24,0.04716391930676185
+BPJS Kesehatan Cabang Makassar - Rental Mobil,0,2027-06-03 15:14:14,0.0362462434353642
+BPJS Kesehatan Cabang Mamuju - Rental Mobil,1,2026-06-03 14:46:58,0.8961792918019251
+BPJS Kesehatan Cabang Manado - Rental Mobil,0,2027-09-02 12:50:45,0.03744234926676564
+BPJS Kesehatan Cabang Manokwari - Rental,0,2029-06-01 11:06:20,0.023262721896126153
+BPJS Kesehatan Cabang Merauke - Rental,0,2027-11-03 16:47:42,0.018206258991271377
+BPJS Kesehatan Cabang Meulaboh - Rental,0,2029-07-10 10:59:47,0.06247498068013215
+BPJS Kesehatan Cabang Muara Bungo - Rental,0,2028-07-01 08:52:16,0.019174910754210427
+BPJS Kesehatan Cabang Muara Teweh - Rental Mobil,0,2028-07-23 10:57:44,0.05598003694239474
+BPJS Kesehatan Cabang Padang - Rental Mobil,0,2028-07-31 08:30:55,0.030124204041141366
+BPJS Kesehatan Cabang Palembang - Rental Mobil,0,2028-08-01 13:36:20,0.08537067476677913
+BPJS Kesehatan Cabang Palopo - Rental Mobil,0,2027-04-25 13:40:28,0.06584072456693715
+BPJS Kesehatan Cabang Palu - Rental Mobil,0,2027-07-01 16:53:23,0.1318664576208663
+BPJS Kesehatan Cabang Pangkal Pinang - Rental Mobil,0,2028-07-17 13:04:53,0.04789708809468499
+BPJS Kesehatan Cabang Pati - Rental,0,2028-05-01 11:40:10,0.1172075850907234
+BPJS Kesehatan Cabang Payakumbuh - Rental Mobil,0,2028-06-25 09:04:53,0.038079221947107875
+BPJS Kesehatan Cabang Pekalongan - Rental,0,2028-05-01 11:18:18,0.15653981381321813
+BPJS Kesehatan Cabang Pekanbaru,0,2028-06-12 15:44:28,0.03911858802030249
+BPJS Kesehatan Cabang Polewali - Rental Mobil,0,2029-07-06 15:56:12,0.02368448000851377
+BPJS Kesehatan Cabang Prabumulih - Rental Mobil,0,2028-06-30 15:33:06,0.08441730460055445
+BPJS Kesehatan Cabang Purwokerto - Rental,0,2028-05-01 11:43:00,0.23892127680458444
+BPJS Kesehatan Cabang Rengat - Rental Mobil,0,2028-06-04 11:12:14,0.012983505560191658
+BPJS Kesehatan Cabang Samarinda,0,2028-04-30 10:47:16,0.05318101269735628
+BPJS Kesehatan Cabang Sibolga - Rental,0,2028-06-17 13:45:27,0.036695066023918324
+BPJS Kesehatan Cabang Soreang - Rental Mobil,0,2027-06-01 13:14:48,0.04581343554563494
+BPJS Kesehatan Cabang Sumedang - Rental Mobil,0,2027-07-01 17:04:41,0.020771463881106452
+BPJS Kesehatan Cabang Tanjungpinang - Rental Mobil,0,2028-06-28 13:48:41,0.015729470922923004
+BPJS Kesehatan Cabang Tarakan,1,2026-06-20 11:24:23,0.7638840193531399
+BPJS Kesehatan Cabang Tegal - Rental,0,2028-05-01 11:36:33,0.10957705349992197
+BPJS Kesehatan Cabang Ternate - Rental Mobil,0,2028-10-20 09:47:22,0.015280783699106213
+BPJS Kesehatan Cabang Tondano - Rental Mobil,0,2028-04-07 13:28:46,0.025798579311715197
+BPJS Kesehatan Cabang Ungaran - Rental,0,2028-05-01 11:57:32,0.19884862898407624
+BPJS Kesehatan Cabang Yogyakarta - Rental,0,2028-05-01 09:56:27,0.2202794586507863
+BPJS Kesehatan Kaltimtengseltara - Rental Mobil,1,2023-08-31 07:00:00,0.8890942178210312
+BPJS Kesehatan Kantor Cabang Ambon - Rental Mobil,0,2028-10-12 14:39:08,0.20327658740441276
+BPJS Kesehatan Kantor Cabang Barabai - Rental,0,2028-05-25 11:28:56,0.0566248483522251
+BPJS Kesehatan Kantor Cabang Ende,0,2027-04-20 09:14:06,0.015530909427464448
+BPJS Kesehatan Kantor Cabang Jayapura - Rental,0,2028-12-19 09:18:09,0.012869877989870946
+BPJS Kesehatan Kantor Cabang Klungkung - Rental Mobil,0,2027-11-15 16:18:50,0.20777676251018545
+BPJS Kesehatan Kantor Cabang Lubuk Pakam - Rental,0,2028-06-15 12:44:28,0.03787658975177437
+BPJS Kesehatan Kantor Cabang Magelang - Rental,0,2028-05-01 13:15:05,0.39352873473510824
+BPJS Kesehatan Kantor Cabang Semarang - Rental,0,2028-05-01 12:10:33,0.43097902784415326
+BPJS Kesehatan Kantor Cabang Singaraja - Rental Mobil,0,2027-11-15 17:36:38,0.1999695693310371
+BPJS Kesehatan Kantor Cabang Sleman - Rental,0,2028-04-01 11:53:09,0.40714019567656096
+BPJS Kesehatan Kantor Cabang Solok,0,2028-06-07 11:15:23,0.03701004642602902
+BPJS Kesehatan Kantor Cabang Surakarta - Rental,0,2028-05-01 13:18:15,0.48320017441120344
+BPJS Kesehatan Kantor Cabang Waingapu,0,2028-06-05 15:48:29,0.021670753126640373
+BPJS Kesehatan Kantor Cabang Watampone - Rental Mobil,0,2028-01-20 14:32:45,0.2744967484374358
+BPJS Kesehatan Kedeputian Wilayah I Medan - Rental Mobil,1,2025-08-31 00:00:00,0.9457386082748489
+BPJS Kesehatan Kedeputian Wilayah II Pekanbaru - Rental Mobil,0,2027-11-17 17:46:21,0.06532534243311724
+BPJS Kesehatan Kedeputian Wilayah III Palembang - Rental Mobil,0,2027-08-22 11:13:44,0.23165123275264055
+BPJS Kesehatan Kedeputian Wilayah IX Makassar - Rental Mobil,1,2025-10-19 14:15:03,0.9416872025764214
+BPJS Kesehatan Kedeputian Wilayah Jawa Tengah dan DIY - Rental,0,2028-05-01 12:47:30,0.14320759050789286
+BPJS Kesehatan Kedeputian Wilayah VII Surabaya - Rental Mobil,1,2025-10-26 14:41:41,0.9390148263697732
+BPJS Kesehatan Kedeputian Wilayah VIII Balikpapan,0,2028-07-02 16:21:13,0.016642806202027384
+BPJS Kesehatan Kedeputian Wilayah X Manado - Rental Mobil,0,2028-07-24 16:36:39,0.026459772377263956
+BPJS Kesehatan Kedeputian Wilayah XII Jayapura - Rental,0,2028-07-01 16:10:40,0.054910167487284764
+BPJS Kesehatan Kedeputian XI Bali Nusra - Rental,0,2028-08-25 10:17:16,0.08525541547526175
+BRI Insurance,1,2025-06-16 10:33:38,0.9442588446174855
+Badan Bank Pembangunan Daerah (BBPD) Jawa Timur Tbk - Rental Mobil,0,2028-07-09 13:47:05,0.08710702488124972
+Badan Pelindungan Pekerja Migran Indonesia BP2MI Padang - Rental Mobil,0,2027-01-02 08:55:20,0.5134776323239654
+Badan Pelindungan Pekerja Migran Indonesia BP2MI Pekanbaru - Rental Mobil,0,2027-03-01 10:42:18,0.13071032176285152
+Badan Pengelolaan Keuangan dan Aset Daerah Kabupaten Kepuluan Tanimbar - Rental Mobil,0,2027-01-28 07:41:37,0.36124564813673427
+Balai Besar Konservasi Sumber Daya Alam Riau - Rental Mobil,1,2024-05-26 07:00:00,0.8846117856369249
+Balai Pemasyarakatan Kelas II Ambon,0,2027-01-18 10:04:11,0.8049154807413123
+Balai Perhutanan Sosial Kampar - Rental,0,2029-01-02 10:56:34,0.06292195453943968
+Balai Taman Nasional Tesso Nilo - Rental,0,2027-01-02 14:23:50,0.31267919148439616
+Bank BNI CABANG BANGKO,0,2026-12-18 07:00:00,0.02354902498293198
+Bank BNI CABANG BATURAJA,0,2026-12-18 07:00:00,0.03934098134734142
+Bank BNI CABANG BENGKULU,0,2026-12-18 07:00:00,0.02977598655621458
+Bank BNI CABANG KAYU AGUNG,0,2026-12-18 07:00:00,0.04968531649024187
+Bank BNI CABANG KOTABUMI,0,2026-12-23 07:00:00,0.03287406912095802
+Bank BNI CABANG KUALA TUNGKAL,0,2026-12-04 07:00:00,0.03550297408850957
+Bank BNI CABANG LUBUKLINGGAU,0,2026-12-22 07:00:00,0.07941595679235738
+Bank BNI CABANG METRO,0,2026-12-23 07:00:00,0.02885974964773668
+Bank BNI CABANG MUARA BUNGO,0,2026-12-04 07:00:00,0.02497617719087663
+Bank BNI CABANG PALEMBANG,0,2026-12-19 07:00:00,0.03947110807358324
+Bank BNI CABANG PANGKAL PINANG,0,2026-12-26 07:00:00,0.040396305348917076
+Bank BNI CABANG PRABUMULIH,1,2026-06-20 07:00:00,0.6835436025945519
+Bank BNI CABANG TANJUNG KARANG,0,2026-12-23 07:00:00,0.0744696914624205
+Bank BNI Cabang Jambi,0,2026-12-18 07:00:00,0.027145176322174634
+Bank BNI Cabang Musi Palembang,0,2026-12-18 07:00:00,0.03533473762037841
+Bank BNI Kantor Pusat-Rental,0,2028-08-07 00:00:00,0.03351387777129459
+Bank BNI Kanwil 10 Jakarta - Rental Kendaraan,0,2027-02-01 09:10:41,0.38646471195899795
+Bank BNI Kanwil 11 Manado- Rental Kendaraan,0,2026-12-15 00:00:00,0.6597614832476204
+Bank BNI Kanwil 15 Jakarta - Rental Kendaraan,0,2027-02-01 11:15:09,0.23044376076348932
+Bank BNI Kanwil 18 Malang-Rental Kendaraan,0,2028-05-01 08:26:43,0.016782440220389806
+Bank BNI Kanwil Palembang,0,2026-12-18 07:00:00,0.20231164212518254
+Bank Mandiri Area Jayapura - Rental,0,2026-10-20 08:41:35,0.7602313355961663
+Bank Mandiri Area Kupang - Rental,1,2026-08-04 14:05:31,0.9463377134296905
+Bank Mandiri Area Kuta - Rental,1,2026-06-14 14:39:06,0.9201360410392644
+Bank Mandiri Area Makassar Sam Ratulangi,1,2026-09-02 13:56:54,0.9274469590496451
+Bank Mandiri Area Mataram - Rental Mobil,1,2026-08-25 07:00:00,0.9022918683475757
+Bank Mandiri Area Parepare,1,2026-10-03 13:40:56,0.7709015670999725
+Bank Mandiri Area Yogyakarta - Rental,0,2026-12-16 10:58:58,0.7553763955593767
+Bank Mandiri Retail Asset Management/ X Sulawesi & Maluku,1,2026-10-02 14:07:46,0.7425766134888601
+Bank Negara Indonesia Kanwil 14 Jakarta - Rental Mobil,0,2027-02-01 10:49:18,0.03706444970764201
+Dana Pensiun Pegadaian - Rental Mobil,1,2025-11-22 07:00:00,0.6255760455888985
+Dinas Kehutanan Lingkungan Hidup dan Kehutanan Riau - Rental,1,2024-02-15 00:00:00,0.7336318077688662
+Dinas Kesehatan Kota Ambon - Rental Mobil,0,2030-10-05 15:23:47,0.13025682110898987
+Hotel Aryaduta Manado - Rental Mobil,1,2025-12-25 07:00:00,0.72928538866634
+Hotel Batiqa Pekanbaru - Rental Mobil,0,2026-10-09 15:12:48,0.685509675891538
+Ibu Zulfah,1,2025-08-02 13:52:59,0.9957345556816698
+Jayana Giri Sentosa - Rental,0,2030-10-15 10:22:23,0.18640939907934112
+KPU Provinsi DI Yogyakarta - Rental Mobil,1,2026-06-12 07:00:00,0.9183028209794599
+Kantor Imigrasi Kelas II Siak - Rental,1,2026-09-30 07:00:00,0.9399325186462721
+Kementerian Pariwisata - Rental Mobil,0,2026-12-31 07:00:00,0.5215425634234252
+Kementerian Perhubungan Direktorat Jenderal Perkeretaapian Balai Teknik Perkeretaapian Kelas I Semarang - Rental Mobil,1,2025-01-07 16:37:17,0.9885312624159253
+Koperasi Konsumen Karyawan Perum Jasa Tirta II Karya Bhakti Raharja - Rental,0,2029-10-15 15:10:58,0.21984305364550547
+Koperasi Mandiri Binakarya - Rental Mobil,1,2025-01-22 09:12:31,0.9849694974696981
+Koperasi PT Inti Bandung-Rental Kendaraan,1,2025-07-17 07:00:00,0.3955669531562537
+Lembaga Pemasyarakatan Perempuan Kelas III Ambon,1,2026-05-01 17:13:11,0.8221216888394667
+Niramas Pandaan Sejahtera,0,2027-01-01 07:37:45,0.8266334295935243
+PD. BPR Rokan Hilir - Rental Motor,0,2028-07-14 16:26:19,0.086365176071445
+PLN NUSANTARA POWER CONSTRUCTION,1,2024-02-17 00:00:00,0.9154637719799508
+PLN UP3 Pangkalan Bun - Rental Mobil,1,2026-08-01 13:41:05,0.8237786814994674
+PT ALSOK Indonesia Service Tbk - Rental Mobil,0,2027-08-13 13:24:14,0.0477942436262758
+PT AXA Insurance Indonesia - Rental,0,2027-06-14 07:00:00,0.04849686286235795
+PT Abhitrans Matra Indah - Rental,1,2023-12-26 07:00:00,0.5525248820016142
+PT Advanta Seed Indonesia - Rental,0,2028-10-08 16:49:15,0.02815810388144459
+PT Antam Tbk Unit Geomin & TD - Rental Mobil,1,2022-03-31 07:00:00,0.9711368830951914
+PT Arnott's Indonesia - Rental,0,2028-10-01 10:29:50,0.12658313629337145
+PT Asuransi Jiwa Inhealth Indonesia - Rental,0,2026-11-05 07:00:00,0.07948120867725317
+PT Asuransi Kredit Indonesia - Rental Kendaraan,0,2027-10-18 07:00:00,0.15202993930696276
+PT Asuransi Tri Pakarta,0,2029-03-13 07:54:28,0.05521645637565853
+PT Asuransi Tri Pakarta Syariah - Rental,0,2029-08-24 12:00:11,0.06849330741442246
+PT Asuransi Tri Pakarta- Rental Mobil,1,2023-01-03 07:00:00,0.9834170594152873
+PT BANK MANDIRI TASPEN KANTOR PUSAT PROKLAMASI,0,2026-12-05 07:00:00,0.024363284593234634
+PT BANK MANDIRI TASPEN KANTOR PUSAT PROKLAMASI/DIVISI,0,2026-12-04 07:00:00,0.016657017484894517
+PT BANK MANDIRI TASPEN KC Karangasem,0,2026-12-31 07:00:00,0.03505173555773765
+PT BANK MANDIRI TASPEN KC SERANG,0,2026-12-01 07:00:00,0.0854008378077956
+PT BANK MANDIRI TASPEN KCP BOGOR CIBINONG,0,2026-12-01 07:00:00,0.017746962885224357
+PT BANK MANDIRI TASPEN KCP BOGOR/BIM,0,2026-12-03 07:00:00,0.00866687587090759
+PT BANK MANDIRI TASPEN KCP Dompu,0,2027-01-13 07:00:00,0.03685389342497223
+PT BANK MANDIRI TASPEN KCP JAKARTA BARAT/BRM,0,2026-12-03 07:00:00,0.07114257756980905
+PT BANK MANDIRI TASPEN KCP JAKARTA PONDOK GEDE,0,2026-12-01 07:00:00,0.028888398635491502
+PT BANK MANDIRI TASPEN KCP JAKARTA RADIO DALAM,0,2026-12-02 07:00:00,0.060725078212477655
+PT BANK MANDIRI TASPEN KCP JAKARTA RAWAMANGUN,0,2026-12-03 07:00:00,0.034397430288258826
+PT BANK MANDIRI TASPEN KCP Kolaka,0,2026-12-22 07:00:00,0.04627663951389836
+PT BANK MANDIRI TASPEN KCP Kuta Bali,0,2026-12-31 07:00:00,0.04845539571508709
+PT BANK MANDIRI TASPEN KCP SOE JL HAYAM WURUK,0,2026-12-11 07:00:00,0.03352203163679727
+PT BANK MANDIRI TASPEN KCP Sungguminasa,0,2027-01-26 14:35:59,0.02294612335674157
+PT BANK MANDIRI TASPEN KCP TANGERANG SERPONG,0,2026-12-03 07:00:00,0.07434635971311604
+PT BANK MANDIRI TASPEN KCP TORAJA UTARA,0,2027-01-26 14:53:02,0.019500290695142926
+PT BANK MANDIRI TASPEN KCP Tomohon,0,2026-12-23 07:00:00,0.1309164719283658
+PT BANK MANDIRI TASPEN KTR PUSAT PROKLAMASI JKT/MICRO,0,2026-12-04 07:00:00,0.04361802776541361
+PT BANK MANDIRI TASPEN KTR PUSAT PROKLAMASI/MICRO,0,2026-12-05 07:00:00,0.022626626189151
+PT BNI Kanwil Makassar,1,2023-11-19 11:02:56,0.9726576594621603
+PT BPR NTB Perseroda Kantor Pusat - Rental,0,2028-02-03 17:27:14,0.015222304345402574
+PT BPR Syariah Siak Jaya - Rental Kendaraan,0,2028-01-20 07:00:00,0.0557803199551085
+PT BPRS Mandiri Mitra Sukses - Rental,0,2027-02-25 09:03:51,0.11001454792202633
+PT Bank Mandiri (Persero) Tbk Area Bekasi Jatiwaringin,1,2025-04-03 16:29:25,0.8593389601445498
+PT Bank Mandiri (Persero) Tbk Area Falatehan,1,2024-04-14 16:24:26,0.9812358017098969
+PT Bank Mandiri (Persero) Tbk Area Jakarta Gambir,1,2024-03-18 16:06:07,0.994172309501347
+PT Bank Mandiri (Persero) Tbk Area Jakarta Thamrin,1,2024-04-18 16:40:32,0.9798849516833628
+PT Bank Mandiri (Persero) Tbk Area Kyai Tapa,1,2024-12-20 14:57:56,0.9374439180138454
+PT Bank Mandiri (Persero) Tbk Area Mataram - Rental,1,2026-09-01 13:49:16,0.07281469502292753
+PT Bank Mandiri (Persero) Tbk Cabang Bekasi Grand Mall,1,2024-03-19 07:00:00,0.6443018017466506
+PT Bank Mandiri (Persero) Tbk Cabang Jakarta Bandara Soeta Gd.Angkasa Pura 2,1,2024-04-05 07:00:00,0.9559046115856227
+PT Bank Mandiri (Persero) Tbk Cabang KCP Bekasi Tambun Naga,1,2023-07-19 07:00:00,0.9944331695099231
+PT Bank Mandiri (Persero) Tbk Cabang Prioritas Pondok Kelapa,1,2024-06-19 16:36:07,0.9792201574174992
+PT Bank Mandiri (Persero) Tbk Cabang Pulogadung,1,2025-07-01 13:47:01,0.8655150565508786
+PT Bank Mandiri (Persero) Tbk Cabang Tangerang Merdeka,1,2024-04-10 07:00:00,0.7839074507744909
+PT Bank Mandiri (Persero) Tbk KCP Bandung Braga,1,2023-12-19 07:00:00,0.9284371733873764
+PT Bank Mandiri (Persero) Tbk. - Rental Mobil,0,2029-09-01 16:05:01,0.12786167203613985
+PT Bank Mandiri Taspen KC Ambon - Rental,0,2028-04-25 16:32:07,0.012779123120740579
+PT Bank Mandiri Taspen KC Banjarmasin - Rental,0,2029-02-12 13:47:29,0.02005813223150361
+PT Bank Mandiri Taspen KC Jayapura - Rental,0,2028-04-25 09:21:08,0.013182393696942785
+PT Bank Mandiri Taspen KC Kediri - Rental,0,2029-02-27 15:43:43,0.019652271039086688
+PT Bank Mandiri Taspen KC Kendari - Rental,0,2028-04-25 08:08:59,0.016289401352563557
+PT Bank Mandiri Taspen KC Makassar - Rental,0,2028-04-25 09:10:08,0.032573365970699486
+PT Bank Mandiri Taspen KC Malang - Rental,0,2029-02-12 15:54:25,0.01933078096417808
+PT Bank Mandiri Taspen KC Manado - Rental,0,2028-04-25 10:07:59,0.018644749704110387
+PT Bank Mandiri Taspen KC Medan - Rental,0,2029-02-27 14:50:23,0.024654629035359386
+PT Bank Mandiri Taspen KC Melati Denpasar - Rental,0,2026-12-31 07:00:00,0.0849412004716397
+PT Bank Mandiri Taspen KC Palangkaraya - Rental,0,2029-02-12 16:09:44,0.014482150684884157
+PT Bank Mandiri Taspen KC Palu - Rental,0,2028-04-25 10:03:55,0.008994517291361278
+PT Bank Mandiri Taspen KC Pekanbaru - Rental,0,2029-02-12 15:10:30,0.00986472567937687
+PT Bank Mandiri Taspen KC Singaraja - Rental,0,2029-02-12 16:54:06,0.03387063070391818
+PT Bank Mandiri Taspen KC Tanjung Pinang - Rental,0,2029-02-12 15:33:45,0.010549764132804163
+PT Bank Mandiri Taspen KC Yogyakarta - Rental,0,2028-04-22 10:10:32,0.029388810968829327
+PT Bank Mandiri Taspen KCP Ambon - Rental,0,2028-04-25 17:31:42,0.01918266785731143
+PT Bank Mandiri Taspen KCP Balikpapan Asabri - Rental,0,2029-02-12 16:14:56,0.06341840125472399
+PT Bank Mandiri Taspen KCP Batam - Rental,0,2029-02-12 15:39:35,0.014269693193045607
+PT Bank Mandiri Taspen KCP Baubau - Rental,0,2028-04-25 09:03:42,0.02183868426172831
+PT Bank Mandiri Taspen KCP Biak - Rental,0,2028-04-25 09:26:00,0.021443075350015713
+PT Bank Mandiri Taspen KCP Brebes - Rental,0,2028-04-22 09:58:37,0.037596262989018484
+PT Bank Mandiri Taspen KCP Bulukumba - Rental,0,2028-04-25 09:19:27,0.016349801393742792
+PT Bank Mandiri Taspen KCP Gunung Kidul - Rental,0,2028-04-22 10:05:23,0.02357251554636796
+PT Bank Mandiri Taspen KCP Klungkung - Rental,0,2029-02-12 16:37:33,0.016617753143600027
+PT Bank Mandiri Taspen KCP Kotamubagu - Rental,0,2028-04-25 10:11:55,0.03379992410614678
+PT Bank Mandiri Taspen KCP Lamongan - Rental,0,2029-02-15 15:00:22,0.07172045291268232
+PT Bank Mandiri Taspen KCP Luwuk - Rental,0,2028-04-25 10:27:17,0.01127120649819503
+PT Bank Mandiri Taspen KCP Madiun - Rental,0,2029-02-12 16:02:58,0.02047942421205151
+PT Bank Mandiri Taspen KCP Mambal - Rental,0,2029-02-12 16:39:55,0.08206343568832067
+PT Bank Mandiri Taspen KCP Mamuju - Rental,0,2028-04-25 08:56:42,0.02476926551698714
+PT Bank Mandiri Taspen KCP Mengwi - Rental,0,2029-02-12 16:44:31,0.08458322570966972
+PT Bank Mandiri Taspen KCP Mojokerto - Rental,0,2029-02-15 15:11:26,0.07971551614616895
+PT Bank Mandiri Taspen KCP Morowali - Rental,0,2028-04-25 10:23:58,0.008471007361523734
+PT Bank Mandiri Taspen KCP Negara - Rental,0,2029-02-12 13:59:58,0.013821801696336478
+PT Bank Mandiri Taspen KCP Palopo - Rental,0,2028-04-25 09:01:03,0.024461080468844397
+PT Bank Mandiri Taspen KCP Pangkajene - Rental,0,2028-04-25 09:16:01,0.02619956625515823
+PT Bank Mandiri Taspen KCP Parepare - Rental,0,2028-04-25 08:31:06,0.02435807883654908
+PT Bank Mandiri Taspen KCP Pati - Rental,0,2028-04-01 00:00:00,0.01809407464251336
+PT Bank Mandiri Taspen KCP Polewalimandar - Rental,0,2028-04-25 09:06:33,0.006567730761479139
+PT Bank Mandiri Taspen KCP Pontianak Asabri - Rental,0,2029-02-12 16:21:28,0.012487669429030575
+PT Bank Mandiri Taspen KCP Poso - Rental,0,2028-04-25 10:20:58,0.007634654552560419
+PT Bank Mandiri Taspen KCP Sangatta - Rental,0,2029-02-12 16:24:13,0.012531864409273641
+PT Bank Mandiri Taspen KCP Slawi - Rental,0,2028-04-22 10:08:38,0.029521222111427936
+PT Bank Mandiri Taspen KCP Sorong - Rental,0,2028-04-25 09:28:14,0.006607912466259425
+PT Bank Mandiri Taspen KCP Sukoharjo - Rental,0,2028-04-22 10:14:44,0.026345173228820788
+PT Bank Mandiri Taspen KCP Tabanan - Rental,0,2029-02-12 16:50:11,0.013590860155159307
+PT Bank Mandiri Taspen KCP Tanjung - Rental,0,2029-02-12 16:27:23,0.014490652421710696
+PT Bank Mandiri Taspen KCP Tanjung Selor - Rental,0,2029-02-12 16:30:11,0.0137670348593147
+PT Bank Mandiri Taspen KCP Tarakan - Rental,0,2029-02-12 16:33:16,0.012273957530744865
+PT Bank Mandiri Taspen KCP Temanggung - Rental,0,2028-04-01 00:00:00,0.01614944954979232
+PT Bank Mandiri Taspen KCP Teuku Umar - Rental,0,2029-02-27 16:57:13,0.024813803986654746
+PT Bank Mandiri Taspen KCP Tolitoli - Rental,0,2028-04-25 10:17:25,0.012055740354260838
+PT Bank Mandiri Taspen KCP Ubud - Rental,0,2029-02-12 17:00:15,0.07868097440050867
+PT Bank Mandiri Taspen KCP Unaaha - Rental,0,2028-04-25 08:39:17,0.010301127574839135
+PT Bank Mandiri Taspen Kantor Pusat - Rental,0,2029-02-27 17:05:22,0.06142688986159663
+PT Bank Mandiri Tbk Persero Area Daan Mogot,1,2023-12-05 09:21:09,0.9701077834120901
+PT Bank NTB Syariah - Rental Mobil,0,2029-07-01 10:24:00,0.18261137956620804
+PT Bank Nagari - Rental Mobil,0,2029-03-09 11:50:21,0.062163760619606066
+PT Bank Negara Indonesia (Persero) Tbk Kantor Cabang Pasar Mayestik - Rental,0,2028-05-05 10:32:59,0.08492156017414035
+PT Bank Negara Indonesia - Kanwil 14,0,2027-02-12 15:34:52,0.015908888643702268
+PT Bank Negara Indonesia Cab. Bitung,0,2026-12-07 16:05:32,0.04616991424778926
+PT Bank Negara Indonesia Tbk - Rental Mobil,0,2027-09-01 14:33:11,0.089675330124408
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Batam",0,2027-03-21 19:05:25,0.023427631002800143
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Bukit Tinggi",0,2027-01-25 07:00:00,0.028471620581102634
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Cab. Gorontalo",0,2026-12-21 15:20:05,0.10767901499106043
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Cab. Kotamobagu",0,2026-12-07 16:16:03,0.06277895466821894
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Cab. Luwuk",0,2026-12-07 16:20:04,0.05354038869930289
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Cab. Manado",0,2026-12-08 16:23:58,0.09223532920966511
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Cab. Palu - Area Head 3",0,2026-12-06 16:01:58,0.11449068178855393
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Cab. Parigi",0,2026-12-06 16:26:50,0.06873735949212857
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Cab. Tahuna",0,2026-12-07 16:28:54,0.05398959620280345
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Cab. Ternate",0,2026-12-11 15:58:13,0.04402137038999958
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Cab. Toli-Toli",0,2026-12-06 16:30:35,0.053879335577916
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Cab. Tomohon",0,2026-12-07 16:12:31,0.17631684049324708
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Cabang Tambilahan",0,2027-01-20 07:00:00,0.017500648723723637
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Divisi PFA",0,2026-12-01 15:39:13,0.0574356185178708
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Dumai",0,2027-03-12 07:00:00,0.04189891615781781
+"PT Bank Negara Indonesia Tbk - Rental Mobil, KC Jakarta Pusat",0,2028-12-31 09:02:17,0.10545613438034204
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Kantor Wilayah 11 Manado",0,2027-01-05 16:57:41,0.11874533357612378
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Kantor Wilayah Manado",0,2026-12-08 13:54:40,0.48382969298657497
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Kantor Wilayah Manado - Area Head 1",0,2026-12-08 14:13:57,0.4982532399092605
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Kantor Wilayah Manado - Area Head 2",0,2026-12-08 14:22:54,0.48258259244423496
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Kantor Wilayah Manado - Unit RR",0,2026-12-08 15:10:50,0.5086244850173333
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Kantor Wilayah Manado - Unit SKK",0,2026-12-08 14:42:18,0.5813882615943775
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Kantor Wilayah Pekanbaru",0,2027-01-25 07:00:00,0.1544330292438336
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Payakumbuh",0,2027-01-20 07:00:00,0.02295752441942085
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Pekanbaru",0,2027-01-17 07:00:00,0.0260632131717489
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Regional Comercial Remedial & Recovery 02",1,2026-05-21 07:00:00,0.8766701444235421
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Rengat",0,2027-01-20 07:00:00,0.025518750787043364
+"PT Bank Negara Indonesia Tbk - Rental Mobil, SBE Pekanbaru",0,2027-01-22 07:00:00,0.05680013399432142
+"PT Bank Negara Indonesia Tbk - Rental Mobil, SBK Batam",1,2026-07-25 21:57:42,0.9084702317805424
+"PT Bank Negara Indonesia Tbk - Rental Mobil, SBK Pekanbaru",1,2026-07-25 17:15:55,0.9312579287267815
+"PT Bank Negara Indonesia Tbk - Rental Mobil, SKK Pekanbaru",0,2027-01-17 07:00:00,0.0341106111736527
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Selat Panjang",0,2027-01-23 07:00:00,0.05167947987096326
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Sungai Penuh",0,2027-01-20 07:00:00,0.02461235070180881
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Tanjung Balai Karimun",0,2027-01-17 07:00:00,0.02770431110561386
+"PT Bank Negara Indonesia Tbk - Rental Mobil, Tanjung Pinang",0,2027-01-17 07:00:00,0.05236424989063608
+PT Bank Negara Indonesia Tbk KC Padang,0,2027-01-19 07:00:00,0.036727326414451686
+PT Bank Negara Indonesia Tbk Kanwil 16 Jayapura - Rental,0,2027-11-11 10:12:51,0.04251155145891942
+PT Bank Negara Indonesia Tbk. Cabang Biak - Rental,0,2027-12-27 10:29:03,0.008184233004177862
+PT Bank Negara Indonesia Tbk. Cabang Jayapura - Rental,0,2027-11-11 10:21:57,0.041024973364941444
+PT Bank Negara Indonesia Tbk. Cabang Manokwari - Rental,0,2027-11-29 10:25:49,0.006226307479298901
+PT Bank Negara Indonesia Tbk. Cabang Merauke - Rental,0,2027-12-04 10:32:34,0.005275188472130226
+PT Bank Negara Indonesia Tbk. Cabang PIK - Rental,0,2027-08-07 00:00:00,0.043863691442835306
+PT Bank Negara Indonesia Tbk. Cabang Sorong - Rental,0,2027-11-08 10:36:16,0.036496382503714925
+PT Bank Negara Indonesia Tbk. Cabang Timika - Rental,0,2027-11-26 18:07:45,0.019953532177920306
+PT Bank Pembangunan Daerah Bali - Rental Mobil,0,2027-02-21 07:00:00,0.10432644254705263
+PT Bank Pembangunan Daerah Kalimantan Selatan (Perseroda) - Rental,0,2027-03-29 14:30:12,0.0375613632195336
+PT Bank Pembangunan Daerah Kalimantan Tengah - Rental Mobil,0,2027-10-15 09:17:30,0.22662456569124756
+PT Bank Perkreditan Rakyat Pekanbaru Madani (Perseroda) - Jasa Usaha Lain,0,2027-03-28 07:00:00,0.10712546555977329
+PT Bank Perkreditan Rakyat Pekanbaru Madani (Perseroda) - Rental Komputer,0,2028-09-25 09:22:40,0.08083388625285357
+PT Bank Perkreditan Rakyat Pekanbaru Madani (Perseroda) - Rental Mobil,0,2029-02-02 16:28:51,0.05871002713730428
+PT Bank Perkreditan Rakyat Pekanbaru Madani (Perseroda) - Rental Motor,0,2027-05-27 07:00:00,0.23883905172867298
+PT Bank Perkreditan Rakyat Pekanbaru Madani (Perseroda) - Usaha Lainnya,1,2025-07-03 07:00:00,0.9698469453039275
+PT Bank Rakyat Indonesia (Persero) Tbk - Rental Mobil,0,2026-10-15 07:00:00,0.246798322798
+PT Bank Rakyat Indonesia (Persero) Tbk Kacab. Medan Gatot Subroto - Rental,0,2026-12-25 13:35:41,0.24407665289540023
+PT Bank Rakyat Indonesia (Persero) Tbk. Kantor Wilayah Jakarta 1,0,2028-08-13 09:59:26,0.0540182115162167
+PT Bank Rakyat Indonesia (Persero) Tbk. Regional Office Bandung,0,2028-04-30 13:28:16,0.19093573847905698
+PT Bank Raya Indonesia Tbk,1,2025-02-01 15:08:03,0.8744445663951776
+PT Bank Raya Indonesia Tbk - Sewa Peralatan Kerja Omnichannel,1,2024-10-01 13:20:48,0.9901865685755424
+PT Bank Syariah Indonesia - Rental Mobil,0,2029-08-28 09:58:47,0.12756010975967647
+PT Bank Syariah Indonesia Cabang Cilacap - Rental,1,2026-02-10 13:44:36,0.8819982336950194
+PT Berkah Mulia Tama-Rental Kendaraan,1,2025-04-01 07:00:00,0.8463579279649022
+PT Bhineka Bangun Mandiri - Rental,0,2029-10-05 10:54:13,0.20656284908343672
+PT Bintang Sayap Utama-Rental Mobil,1,2024-05-05 07:00:00,0.9091590141273012
+PT Biro Klasifikasi Indonesia (Persero) - Rental Mobil,0,2026-12-27 11:10:13,0.28404378202894853
+PT Bringin Karya Sejahtera - Rental,1,2025-07-11 09:49:34,0.9895662467558978
+PT CIPTA GRIA PARAMITA-Rental Kendaraan,1,2024-05-15 07:00:00,0.9172529265719419
+PT Citra Grand Khatulistiwa - Rental Mobil,0,2028-12-22 16:32:21,0.03282749689520158
+PT Citra Grand Khatulistiwa - Rental Motor,0,2028-04-22 08:52:30,0.15570213325842128
+PT Danakar - Rental,0,2030-01-20 10:30:59,0.2217273646326726
+PT Dayaguna Maritim Cargotama,1,2024-01-15 07:00:00,0.9085914979994213
+PT Decathlon Sport Indonesia - Rental Mobil,0,2027-02-15 07:00:00,0.13755478542579463
+PT Djabesdepo Fortuna Raya -Rental Kendaraan,0,2027-11-03 07:00:00,0.8447750351366474
+PT Eleanor Produksi Indonesia - Rental,0,2026-12-08 15:50:42,0.09664816583427505
+PT Era Permata Sejahtera,1,2025-03-09 14:28:05,0.7705114805396149
+PT Eurobuilding Bali - Rental Mobil,0,2026-12-05 10:02:30,0.25841183406585816
+PT Gadai Valuemax Indonesia - Rental Mobil,0,2027-07-01 13:22:22,0.8528627671483469
+PT Geo Dipa Energi (Persero)- Rental Komputer,1,2026-02-04 07:00:00,0.7358131125452111
+PT Global Lintas Solusi - Rental Komputer,0,2027-07-22 13:44:32,0.10026003354633126
+PT Gramari Prima Nusa - Rental Mobil,0,2027-04-01 07:00:00,0.04141915314912687
+PT Halliburton Indonesia BPN - Rental Mobil,1,2024-09-01 07:00:00,0.5013668637055935
+PT Halliburton Indonesia BSD - Rental Mobil,1,2021-04-11 07:00:00,0.9874019725439727
+PT Halliburton Logging Services Indonesia - Rental Mobil,1,2024-01-21 07:00:00,0.8428318461661293
+PT Herfinta Farm And Plantation - Rental,0,2029-08-10 10:39:01,0.07832184778479073
+PT Herfinta Farm And Plantation - Rental Mobil,0,2027-09-01 07:00:00,0.12772110269214954
+PT INBANG DUTA FIRZA JO - Rental Mobil,1,2026-02-05 17:22:08,0.842204411396736
+PT Indoin Bussines Group - Rental,0,2027-05-21 14:01:05,0.07292257631116134
+PT Indonesia Asahan Alumunium (Inalum) - Rental Mobil,0,2027-04-12 09:12:59,0.5706045210791681
+PT Indonesia Comnets Plus,1,2025-01-17 13:39:56,0.9968949818159528
+PT Indonesia Comnets Plus - Rental Mobil,0,2027-02-01 09:40:19,0.3714401139086283
+PT Industri Nabati Lestari - Rental Mobil,1,2026-01-28 07:00:00,0.5701812400904339
+PT Integrasi Aviasi Solusi - Rental Komputer,1,2024-05-10 07:00:00,0.9048057926903585
+PT Jababeka Infrastruktur - Rental,0,2029-10-09 10:28:59,0.14910710645431252
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Ambon - Rental Kendaraan,0,2026-11-13 07:00:00,0.018910707848282922
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Balige - Rental Kendaraan,0,2028-04-25 15:53:14,0.006990968899313811
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Balikpapan - Rental Kendaraan,0,2028-05-19 17:23:13,0.01720606639734407
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Bandar Lampung - Rental Kendaraan,0,2026-11-13 07:00:00,0.07468806906701972
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Bandung - Rental Kendaraan,0,2026-11-13 07:00:00,0.06894369970303929
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Bandung - Rental Komputer,0,2027-09-02 10:10:57,0.23464082342689166
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Banjarmasin - Rental,0,2029-08-21 13:41:49,0.008065734532709801
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Banyuwangi - Rental Kendaraan,0,2028-06-04 14:21:02,0.010762121913593964
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Banyuwangi - Rental Komputer,0,2027-05-01 11:43:59,0.12247886138884274
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Batam - Rental Kendaraan,0,2027-01-02 17:12:54,0.016616962858390694
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Bengkulu - Rental Kendaraan,0,2026-11-13 07:00:00,0.023283462175614947
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Cirebon - Rental Kendaraan,0,2026-11-13 07:00:00,0.046430146967328154
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Denpasar - Rental Kendaraan,0,2026-11-13 07:00:00,0.05809108295812191
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Gorontalo - Rental Kendaraan,0,2028-04-14 13:20:26,0.007910107220333444
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Jakarta - Rental Kendaraan,0,2028-02-03 17:42:06,0.014720125710804288
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Jambi - Rental Kendaraan,0,2026-11-13 07:00:00,0.021403406260439038
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Jayapura - Rental Kendaraan,0,2029-10-25 18:00:27,0.009901788266062875
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Kediri - Rental Kendaraan,0,2029-10-01 14:43:41,0.008780561948572274
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Kediri - Rental Komputer,0,2028-01-24 10:50:00,0.08638565391505611
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Kendari - Rental Kendaraan,0,2026-11-13 07:00:00,0.08114282750444154
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Kendari - Rental Komputer,0,2027-08-21 13:25:12,0.12373226784591389
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Kudus - Rental Kendaraan,0,2029-10-22 11:08:04,0.014731910283117053
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Kudus - Rental Komputer,0,2028-08-01 00:00:00,0.2316206887792657
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Kupang - Rental Kendaraan,0,2026-11-13 07:00:00,0.0233074662526776
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Madiun - Rental Kendaraan,0,2027-02-12 10:22:18,0.014440144092877838
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Makassar - Rental Kendaraan,0,2029-10-14 18:08:12,0.006524267457810995
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Malang - Rental Kendaraan,0,2028-03-17 07:00:00,0.02576704268263228
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Malang - Rental Komputer,0,2027-05-01 13:29:22,0.1930368456641786
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Mamuju - Rental Kendaraan,0,2029-10-17 17:53:19,0.005344321330444301
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Manado - Rental Kendaraan,1,2023-11-13 07:00:00,0.3999403972646222
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Manokwari - Rental Kendaraan,0,2026-11-13 07:00:00,0.024520707498507356
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Mataram - Rental Kendaraan,0,2026-11-13 07:00:00,0.014339958318897325
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Medan - Rental Kendaraan,0,2026-11-13 07:00:00,0.06080704217828303
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Padang - Rental Kendaraan,0,2026-11-13 07:00:00,0.032710216003884886
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Palangkaraya - Rental Kendaraan,0,2026-11-13 07:00:00,0.019752931072102027
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Palembang - Rental Kendaraan,0,2026-11-13 07:00:00,0.05436841232795751
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Palopo - Rental Kendaraan,0,2028-05-14 09:51:19,0.020223959965642677
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Palu - Rental Kendaraan,0,2029-10-17 08:51:44,0.006858298398567037
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Pangkal Pinang - Rental Kendaraan,0,2026-11-13 07:00:00,0.022744249445839727
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Parepare - Rental Kendaraan,0,2028-03-21 13:54:51,0.020575800024958294
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Pekalongan - Rental Kendaraan,0,2026-11-13 07:00:00,0.05851552964362291
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Pekanbaru - Rental Kendaraan,0,2026-11-13 07:00:00,0.09882831078825452
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Pekanbaru - Rental Komputer,1,2026-08-15 00:00:00,0.009301912500777963
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Pontianak - Rental Kendaraan,0,2026-11-13 07:00:00,0.08019275334705814
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Purwakarta - Rental Kendaraan,0,2026-11-13 07:00:00,0.027441223998092977
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Purwokerto - Rental Kendaraan,0,2029-10-20 11:15:38,0.02013197748866847
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Samarinda - Rental Kendaraan,0,2028-01-12 11:53:57,0.007512478938226358
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Serang - Rental Kendaraan,0,2026-11-13 07:00:00,0.020166164965347892
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Solo - Rental Mobil,0,2030-10-24 11:43:59,0.050055236499456215
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Sorong - Rental Kendaraan,0,2029-10-25 18:03:13,0.006426344472409656
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Sukabumi - Rental Kendaraan,0,2026-11-13 07:00:00,0.023771201504558297
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Sumbawa - Rental Kendaraan,0,2026-11-13 07:00:00,0.024660577468461137
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Surabaya - Rental Kendaraan,0,2029-10-01 14:30:14,0.015272771262434842
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Tangerang - Rental Kendaraan,0,2026-11-13 07:00:00,0.07610252852555562
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Tanjung Pinang - Rental Kendaraan,0,2028-03-16 10:35:28,0.025803303996024134
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Tarakan - Rental Kendaraan,0,2026-11-13 07:00:00,0.029868872493719
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Tasikmalaya - Rental Kendaraan,0,2028-02-03 17:41:45,0.029579812687963808
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Tegal - Rental Kendaraan,0,2029-11-06 11:46:36,0.00437412797203729
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Ternate - Rental Kendaraan,0,2027-05-03 13:59:11,0.014144474400509744
+PT Jaminan Kredit Indonesia (Persero) Kantor Cabang Yogyakarta - Rental Kendaraan,0,2030-10-31 11:22:45,0.010279543429383416
+PT Jaminan Kredit Indonesia (Persero) Kantor Kanwil Surabaya - Rental Komputer,0,2027-03-27 15:29:24,0.09673559881910651
+PT Jaminan Kredit Indonesia (Persero) Kantor Pusat - Rental Kendaraan,0,2028-04-14 16:16:19,0.01457097879954882
+PT Jaminan Kredit Indonesia (Persero) Kantor Wilayah V Semarang - Rental Kendaraan,0,2030-10-27 11:00:03,0.009931644205573038
+PT Jaminan Kredit Indonesia (Persero) Kantor Wilayah IV Bandung - Rental Kendaraan,0,2027-06-02 16:24:08,0.015959185865886162
+PT Jamkrida Kalsel (Perseroda) - Rental,0,2028-01-06 13:51:05,0.06302915052103875
+PT Jasa Raharja Putera Branch Office Pekanbaru - Rental,0,2031-12-01 10:17:32,0.05104094016572648
+PT Jasamarga Solo Ngawi-Rental Kendaraan,1,2025-12-05 07:00:00,0.7913772757013505
+PT Jaya Kontruksi Manggala Pratama TBK,0,2027-02-08 07:00:00,0.18962762836230534
+PT Jimbaran Jaya - Rental,0,2027-10-06 15:41:31,0.021010070400043653
+PT Kamadjaja Logistics - Rental Komputer,1,2025-08-24 07:00:00,0.8008158970439787
+PT Karya Rental Utama-Rental Mobil,1,2024-08-01 07:00:00,0.8070753633023914
+PT Kawasan Industri Nusantara-Rental Mobil,0,2026-11-07 19:28:47,0.33433729789150046
+PT Kemira Indonesia - Rental,0,2027-08-01 07:00:00,0.02875259884732247
+PT Kolega Bisnis Indonesia,1,2026-07-23 10:06:23,0.9960169234842151
+PT LIPPO KARAWACI TBK - Rental Mobil,1,2024-10-01 07:00:00,0.46050025895321234
+PT LSAG Cable Indonesia,0,2027-02-10 07:00:00,0.07922517408078007
+PT LSAG Cable Solutions - Rental,0,2027-10-07 16:27:46,0.08961842714375629
+PT Lippo Karawaci Tbk - Rental Kendaraan,0,2026-10-13 07:00:00,0.28114180335663974
+PT Mabrur Semesta Alam - Rental Mobil,1,2024-11-04 07:00:00,0.8490843173787228
+PT Mandiri Manajemen Investasi,0,2026-12-25 07:00:00,0.04865985803138838
+PT Mandiri Tunas Finance - Rental Mobil,0,2027-11-01 19:04:36,0.2886225077160923
+PT Medika Yakespen Utama - Rental,0,2029-09-10 14:20:36,0.14745768619169353
+PT Mitra Karya Prima - Rental Kendaraan,0,2029-07-10 13:33:47,0.02487081413912098
+PT Mitra Timur Lestari-Rental Mobil,1,2025-11-21 07:00:00,0.8547221349072822
+PT Mulia Raya Agrijaya- Rental Mobil,1,2026-06-04 00:00:00,0.6635443440233932
+PT Niramas Utama - Rental Mobil,0,2028-06-16 11:50:33,0.08450155747049493
+PT Nusantara Bintang Satu Enam - Rental,0,2027-09-04 10:39:24,0.02807413663934403
+PT PEGADAIAN - Rental,1,2025-08-24 09:49:34,0.9978928532747531
+PT PEGADAIAN Divisi Pemasaran,1,2025-08-01 10:26:49,0.8208374036283974
+PT PLN (Persero) Audit Distribusi Kalselteng Kaltimra - Rental Mobil,1,2026-08-01 14:32:05,0.8012669191470106
+PT PLN (Persero) UID Jawa Timur-Rental Kendaraan,1,2026-01-01 07:00:00,0.45879049877941913
+PT PLN (Persero) UID Kalselteng UP3 Palangkaraya - Rental Mobil,1,2026-08-01 14:35:56,0.36083591256717285
+PT PLN (Persero) Unit Induk Wilayah NTT UPT Kupang - Rental Mobil,0,2027-08-01 14:12:55,0.1276457260146316
+PT PLN (Persero) Unit Induk Wilayah Nusa Tenggara Barat - Rental Kendaraan,1,2026-04-01 07:00:00,0.27404352374765634
+PT PLN Indonesia Comnets Plus (Mampang) - Rental Mobil,1,2026-10-01 11:13:45,0.01770735769059319
+PT PLN Nusantara Power Manager Up Punagaya - Rental Mobil,0,2026-11-01 14:23:01,0.18999740616449215
+PT PLN Nusantara Power Services (Tembilahan) - Rental Mobil,0,2027-07-01 11:36:59,0.09143113480346762
+PT PLN Nusantara Power Services - Rental Mobil,0,2027-10-01 09:48:04,0.13710176850920042
+PT PLN Nusantara Power UP Tenayan,0,2028-01-02 17:02:12,0.025208892737425326
+PT PLN Nusantara Power Umro - Rental Mobil,0,2027-10-01 12:37:59,0.11431122324692697
+PT PLN Nusantara Power Unit Pelaksanaan Pengendalian Pembangkitan Pekanbaru - Rental Mobil,1,2026-09-01 00:00:00,0.25836903504395353
+PT PLN Nusantara Power Unit Pembangkitan Kaltim Teluk- Rental Mobil,1,2024-09-06 07:00:00,0.8751578894322913
+PT PLN Nusantara Power Unit Pembangkitan Muara Karang - Rental Mobil,1,2024-01-01 07:00:00,0.962054111766977
+PT PLN Nusantara Power Unit Pembangkitan Pekanbaru - Rental Mobil,1,2025-09-18 15:49:48,0.9924689028331402
+PT PLN Nusantara Power Unit Pembangkitan Pulang Pisau - Rental Mobil,0,2027-03-01 09:12:36,0.20195315365076333
+PT PLN Unit Induk Distribusi Bali - Rental,0,2028-02-24 16:41:41,0.10650191813397228
+"PT PMA Sungjin Indonesia - Rental Mobil,",1,2025-07-25 07:00:00,0.9461969972340766
+PT Pegadaian (Divisi Pemasaran),1,2024-07-01 16:01:31,0.8731609766403065
+PT Pegadaian (Divisi Penjualan),1,2026-07-25 09:20:49,0.9572527281397776
+PT Pegadaian (Persero) Kantor Pusat - Rental Mobil,0,2031-10-09 09:31:36,0.15701745212743395
+PT Pegadaian (Persero) Kantor Pusat - Rental Sepeda Motor,0,2029-02-20 00:00:00,0.21461253330805546
+PT Pegadaian - Kantor Pusat - Jasa Usaha Lainnya,1,2024-06-09 07:00:00,0.9595691100391806
+PT Pegadaian - Kantor Pusat Jasa Usaha Lainnya,1,2024-11-04 09:01:59,0.9864507380753554
+PT Pegadaian - Kanwil Balikpapan Rental Mobil,0,2027-10-26 07:00:00,0.2028082579073967
+PT Pegadaian - Kanwil Denpasar Rental Komputer,1,2025-08-23 07:00:00,0.7542679717995991
+PT Pegadaian - Kanwil IV Balikpapan,1,2024-09-19 16:34:20,0.9934191410530385
+PT Pegadaian - Kanwil Makassar Rental Komputer,0,2029-10-16 11:01:10,0.22417050854949108
+PT Pegadaian - Kanwil Manado Rental Komputer,1,2025-02-25 07:00:00,0.8688402423119642
+PT Pegadaian - Kanwil Pekanbaru Rental Sepeda Motor,1,2026-01-17 00:00:00,0.36384622394324595
+PT Pegadaian - Rental Televisi KW SEMARANG,1,2024-01-12 07:00:00,0.9841123004481449
+PT Pegadaian Galeri 24 - Rental Komputer,0,2029-10-09 10:16:01,0.04911673009511062
+PT Pegadaian Galeri Dua Empat,1,2026-08-11 11:07:00,0.9768364628362447
+PT Pegadaian Kantor Pusat (Divisi Corporate University),1,2024-11-10 14:05:23,0.9907285455486543
+PT Pegadaian Kantor Pusat - Divisi Jaringan Operasional,0,2026-12-08 10:36:54,0.20358179368028448
+PT Pegadaian Kantor Pusat - Divisi Pemasaran,1,2024-07-02 15:07:50,0.9794717705429188
+PT Pegadaian Kantor Pusat - Rental Komputer,0,2029-08-04 00:00:00,0.35575309748959494
+PT Pegadaian Kanwil Balikpapan - Rental Komputer,0,2031-06-19 13:34:30,0.059952774270511947
+PT Pegadaian Kanwil Balikpapan - Rental Mobil,0,2029-08-01 16:04:00,0.032652818640650366
+PT Pegadaian Kanwil Balikpapan - Rental Sepeda Motor,1,2026-05-09 00:00:00,0.9072923574951023
+PT Pegadaian Kanwil Bandung - Rental Komputer,0,2029-10-01 14:43:44,0.06622818012587858
+PT Pegadaian Kanwil Bandung - Rental Mobil,0,2029-08-18 00:00:00,0.21761841191081993
+PT Pegadaian Kanwil Bandung - Rental Sepeda Motor,0,2028-04-15 00:00:00,0.19618889867982364
+PT Pegadaian Kanwil Denpasar - Rental Inventaris Lainnya,1,2025-10-19 14:56:39,0.9945033878320977
+PT Pegadaian Kanwil Denpasar - Rental Mobil,0,2028-08-24 00:00:00,0.05369619320226352
+PT Pegadaian Kanwil Denpasar - Rental Motor,0,2029-09-12 00:00:00,0.07794454373512498
+PT Pegadaian Kanwil Jakarta IX - Rental Komputer,0,2028-08-07 00:00:00,0.045826413452300596
+PT Pegadaian Kanwil Jakarta IX - Rental Mobil,0,2029-08-30 00:00:00,0.23195531074677583
+PT Pegadaian Kanwil Jakarta IX - Rental Sepeda Motor,0,2029-04-24 00:00:00,0.34828046500196874
+PT Pegadaian Kanwil Jakarta VIII - Rental Mobil,0,2027-10-26 07:00:00,0.059113054426638875
+PT Pegadaian Kanwil Jakarta VIII - Rental Sepeda Motor,1,2025-11-29 07:00:00,0.8740084830205521
+PT Pegadaian Kanwil Makassar - Rental Mobil,0,2029-01-10 00:00:00,0.05106044066011045
+PT Pegadaian Kanwil Makassar - Rental Sepeda Motor,0,2027-03-01 16:59:47,0.3666805853304166
+PT Pegadaian Kanwil Manado - Rental Mobil,0,2030-03-19 00:00:00,0.030320783659928886
+PT Pegadaian Kanwil Manado - Rental Sepeda Motor,1,2026-07-17 00:00:00,0.12342807572298382
+PT Pegadaian Kanwil Medan - Rental Komputer,0,2027-07-11 00:00:00,0.21945189353140662
+PT Pegadaian Kanwil Medan - Rental Mobil,0,2028-12-18 00:00:00,0.04976363955734175
+PT Pegadaian Kanwil Medan - Rental Sepeda Motor,0,2028-05-08 16:28:16,0.4543623483175573
+PT Pegadaian Kanwil Palembang - Rental Komputer,0,2028-09-11 11:20:22,0.050294800061483694
+PT Pegadaian Kanwil Palembang - Rental Mobil,0,2028-09-19 00:00:00,0.5777502847622182
+PT Pegadaian Kanwil Palembang Rental - Sepeda Motor,1,2026-04-17 00:00:00,0.528229522339891
+PT Pegadaian Kanwil Pekanbaru - Rental Komputer,0,2028-09-11 15:45:14,0.07269076592201976
+PT Pegadaian Kanwil Pekanbaru - Rental Mobil,0,2028-08-28 00:00:00,0.022131481067361635
+PT Pegadaian Kanwil Semarang - Rental Komputer,0,2030-04-06 00:00:00,0.16178785152673872
+PT Pegadaian Kanwil Semarang - Rental Mobil,0,2029-03-03 15:01:38,0.024866073391437295
+PT Pegadaian Kanwil Semarang - Rental Sepeda Motor,1,2026-03-01 07:00:00,0.9024472091447666
+PT Pegadaian Kanwil Surabaya - Rental Komputer,0,2028-07-30 00:00:00,0.23072198832287255
+PT Pegadaian Kanwil Surabaya - Rental Mobil,0,2030-08-20 00:00:00,0.07035334026667499
+PT Pegadaian Kanwil Surabaya - Rental Sepeda Motor,0,2028-11-27 00:00:00,0.18159883007254618
+PT Pegadaian Kanwil X Bandung,0,2027-01-01 00:00:00,0.06460349521871503
+PT Pengembangan Pariwisata Indonesia,1,2026-07-09 16:21:34,0.9689714105752323
+PT Pengembangan Pariwisata Indonesia - Rental Mobil,0,2027-11-01 15:29:08,0.06474623533907091
+PT Penjaminan Infrastruktur Indonesia (Persero) - Rental Mobil,1,2023-11-05 07:00:00,0.8974892455818569
+PT Penjaminan Jamkrindo Syariah Kantor Cabang Pekanbaru - Rental Kendaraan,0,2027-04-25 16:13:31,0.01776190369739956
+PT Perkebunan Nusantara IV - Rental,0,2027-02-03 13:27:42,0.17569106012113073
+PT Permata Graha Nusantara (PGNMAS) - Rental Mobil,1,2025-10-03 17:26:07,0.9577263485554137
+PT Permodalan Ekonomi Rakyat - Rental,0,2028-01-26 07:00:00,0.26238571375077735
+PT Permodalan Nasional Madani - Rental,0,2028-02-03 18:26:49,0.03899957452589147
+PT Perusahaan Pelayaran Equinox - Rental,0,2027-02-02 14:42:32,0.1871287288609662
+PT Pesonna Indonesia Jaya - Chief The Gade Learning Center Surabaya,1,2026-02-18 11:48:16,0.9945136243386242
+PT Pesonna Indonesia Jaya - Rental,0,2028-07-10 16:46:27,0.01891198865632349
+PT Pesonna Indonesia Jaya - Rental Motor,1,2024-12-31 10:16:54,0.9162943536500411
+PT Pesonna Indonesia Jaya- Outsorcing Satpam (Danru) Gedung Kenari Baru,1,2024-10-27 10:03:30,0.9963790284681373
+PT Petrogas Wira Jatim (PWJ) - Rental Kendaraan,0,2027-03-19 18:20:40,0.023866835957386996
+PT Putra Harapan Mama - Rental Mobil,0,2027-03-02 07:00:00,0.12617973307629324
+PT Putra Natur Utama - Rental,0,2029-04-30 15:43:48,0.014413569663626655
+PT Radiant Utama Interinsco - Rental Mobil,1,2025-06-03 14:17:14,0.9618616425853667
+PT Rajawali Mitra Pratama - Rental Mobil,0,2027-02-02 15:54:11,0.15528552784641309
+PT Rutan - Rental,1,2026-08-28 09:50:18,0.7163149435982227
+PT Rutan - Rental Mobil,0,2027-07-17 18:24:45,0.13593224648399904
+PT Sarana Pembangunan Siak - Rental,0,2027-02-03 18:21:42,0.049465633269930434
+PT Simbika Teknologi Solusi,0,2026-11-01 07:00:00,0.040417743174651764
+PT Sinergi Investasi Properti - Rental Mobil,0,2028-01-02 13:48:23,0.10258264857297834
+PT Supra Uniland Utama - Rental Motor,1,2026-05-03 07:00:00,0.5618368105445307
+PT Supraco Indonesia - Rental Mobil,1,2026-01-06 07:00:00,0.956667378254488
+PT Trafoindo Prima Perkasa - Rental,0,2029-07-27 14:08:01,0.0990833406686237
+PT Trans Marga Jateng - Rental Mobil,0,2027-11-01 13:42:14,0.11234240105479336
+PT Ultra Prima Corrugator- Rental Mobil,1,2025-05-25 07:00:00,0.7721624593987322
+PT Varuna Tirta Prakasya (Persero) Cabang Medan - Rental Mobil,0,2026-10-15 16:48:01,0.8911391672096212
+PT Varuna Tirta Prakasya (Persero) Cabang Palembang - Rental Mobil,0,2026-10-07 17:17:07,0.05758580662710774
+PT ZMG TELEKOMUNIKASI SERVISE INDONESIA - Rental Mobil,1,2025-08-17 07:00:00,0.9704799944355823
+PT Ziebar Indonesia - Rental Mobil,0,2027-09-23 08:50:21,0.01912377183051825
+"PT. Bank Pembangunan Daerah Jawa Barat dan Banten, Tbk Cabang Pekanbaru - Rental Mobil",0,2027-01-01 07:00:00,0.022971189103346248
+PT. Baroid Indonesia - Rental Mobil,1,2024-03-08 00:00:00,0.9101296424584804
+PT. Cibaliung Sumberdaya - Rental Mobil,1,2024-08-01 07:00:00,0.8711298314408795
+PT. DREDOLF INDONESIA - Rental Mobil,0,2028-05-19 07:00:00,0.08393616886065315
+PT. Hidrolik Indomitra Teknologi - Rental Mobil,0,2027-01-27 07:00:00,0.4677801647460077
+PT. MITRA SETIA SEHAT - Rental,0,2027-08-24 08:12:27,0.2794023148356467
+PT. PLN Nusantara Power UP Cirata - Rental,0,2028-01-01 10:57:00,0.12066409158937404
+PT. PLN Persero Unit Induk Pembangunan Sumatera Bagian Tengah,0,2029-03-29 11:44:44,0.2167209261656129
+PT. Pegadaian Galeri 24 - Rental Mobil,0,2030-10-30 10:09:40,0.043092740594575074
+PT. Pegadaian Kanwil Jakarta VIII - Rental Komputer,0,2027-07-31 00:00:00,0.06690515063054855
+PT. Penjaminan Jamkrindo Syariah Kantor Cabang Pekanbaru,1,2024-07-01 07:00:00,0.9834757816223763
+PT. Trans Optima Perkasa,0,2029-09-30 08:26:54,0.19357684932406402
+Pemerintah Kota Ambon Sekretariat DPRD - Rental,0,2028-01-02 15:16:10,0.7829927064459217
+Perum Perhutani - Rental Mobil,1,2026-09-01 07:00:00,0.3048365231146696
+Perum Perhutani DEPRENC MALANG - Rental Mobil,1,2026-08-01 12:04:03,0.987254550938404
+Perum Perhutani Departemen Perencanaan dan Pengembangan Bisnis Divisi Regional Jawa Barat dan Banten - Rental Mobil,1,2026-08-01 15:03:45,0.9124990852162427
+Perum Perhutani Departemen Perencanaan dan Pengembangan Bisnis Divisi Regional Jawa Tengah - Rental Mobil,0,2026-11-01 07:00:00,0.3196784046165664
+Perum Perhutani Divisi Regional Jawa Barat dan Banten - Rental Mobil,1,2026-08-01 14:09:47,0.950591168353418
+Perum Perhutani Divisi Regional Jawa Tengah - Rental Kendaraan,0,2026-11-01 08:42:55,0.22624055465453807
+Perum Perhutani KPH Balapulang - Rental Mobil,0,2026-11-01 14:43:27,0.11107675123157676
+Perum Perhutani KPH Bandung Selatan - Rental Mobil,1,2026-08-01 14:18:36,0.9623598112362789
+Perum Perhutani KPH Bandung Utara - Rental Mobil,1,2026-08-01 14:49:12,0.9761276997403673
+Perum Perhutani KPH Banten - Rental Mobil,1,2026-08-01 15:13:02,0.968096890916852
+Perum Perhutani KPH Banyumas Barat- Rental Mobil,0,2026-11-01 12:17:13,0.46114251112924914
+Perum Perhutani KPH Banyumas Timur- Rental Mobil,0,2026-11-01 11:44:27,0.1021965751044966
+Perum Perhutani KPH Banyuwangi Barat,1,2026-08-02 17:28:00,0.9191577206359527
+Perum Perhutani KPH Banyuwangi Selatan - Rental Mobil,1,2026-08-01 15:58:23,0.9916838992538384
+Perum Perhutani KPH Blitar - Rental Mobil,1,2026-08-01 10:14:51,0.9910180778266653
+Perum Perhutani KPH Blora - Rental Mobil,0,2026-11-01 08:28:53,0.10139806702132478
+Perum Perhutani KPH Bogor- Rental Mobil,1,2026-08-01 16:56:46,0.9639504071054391
+Perum Perhutani KPH Bojonegoro - Rental Mobil,1,2026-08-01 10:29:16,0.9920020307292063
+Perum Perhutani KPH Cepu - Rental Mobil,1,2026-09-01 08:20:14,0.9062525808473533
+Perum Perhutani KPH Ciamis - Rental Mobil,1,2026-08-01 13:48:12,0.9710380782999344
+Perum Perhutani KPH Cianjur- Rental Mobil,1,2026-08-01 13:43:50,0.973960448152096
+Perum Perhutani KPH Garut - Rental Mobil,1,2026-08-01 15:44:32,0.9662450333056102
+Perum Perhutani KPH Gundih - Rental Mobil,1,2026-09-01 09:30:36,0.8960188371684102
+Perum Perhutani KPH Indramayu - Rental Mobil,1,2026-08-01 15:38:42,0.964378383044021
+Perum Perhutani KPH Jatirogo - Rental Mobil,1,2026-08-01 16:17:34,0.9919022674070096
+Perum Perhutani KPH Jember - Rental Mobil,1,2026-08-01 11:27:18,0.9884435289957209
+Perum Perhutani KPH Jombang - Rental Mobil,1,2026-08-01 11:55:29,0.9926417623814888
+Perum Perhutani KPH Kebonharjo - Rental Mobil,1,2026-09-01 10:07:47,0.8948018467337198
+Perum Perhutani KPH Kediri - Rental Mobil,1,2026-09-09 16:29:08,0.8933362931478225
+Perum Perhutani KPH Kedu Selatan - Rental Mobil,0,2026-11-01 09:38:09,0.10280945408238437
+Perum Perhutani KPH Kedu Utara - Rental Mobil,0,2026-11-01 09:30:18,0.1051313701130316
+Perum Perhutani KPH Kendal - Rental Kendaraan,1,2026-09-01 08:54:07,0.8788567139023444
+Perum Perhutani KPH Kuningan - Rental Mobil,1,2026-08-01 15:19:29,0.9695436837873016
+Perum Perhutani KPH LAWU DS - Rental Mobil,1,2026-08-01 08:38:27,0.9907757662913385
+Perum Perhutani KPH Madiun - Rental Mobil,1,2026-08-01 08:44:45,0.9799551654245015
+Perum Perhutani KPH Majalengka - Rental Mobil,1,2026-08-01 15:29:48,0.9670043995115909
+Perum Perhutani KPH Mantingan - Rental Mobil,1,2026-09-01 10:26:41,0.8689848124923394
+Perum Perhutani KPH Nganjuk - Rental Mobil,1,2026-08-01 12:35:42,0.9927164734327464
+Perum Perhutani KPH Ngawi - Rental Mobil,1,2026-08-02 13:46:18,0.9889410016609442
+Perum Perhutani KPH Padangan - Rental Mobil,1,2026-08-02 17:19:26,0.9912812232118305
+Perum Perhutani KPH Pasuruan - Rental Mobil,1,2026-08-01 16:54:24,0.9933671623192207
+Perum Perhutani KPH Pati - Rental Mobil,1,2026-09-01 16:29:21,0.8878628651218564
+Perum Perhutani KPH Pekalongan Barat - Rental Mobil,0,2026-11-01 13:09:18,0.1042875356218935
+Perum Perhutani KPH Pekalongan Timur- Rental Mobil,1,2026-09-01 13:04:04,0.8584156845710517
+Perum Perhutani KPH Pemalang- Rental Mobil,1,2026-09-01 12:58:07,0.5143303328941806
+Perum Perhutani KPH Purwakarta- Rental Mobil,1,2026-08-01 14:41:46,0.9732423431765582
+Perum Perhutani KPH Purwodadi - Rental Mobil,0,2026-11-01 08:59:27,0.10951977414252138
+Perum Perhutani KPH Randublatung - Rental Mobil,0,2026-11-01 10:46:20,0.33274561246722395
+Perum Perhutani KPH Semarang - Rental Mobil,0,2026-12-01 09:59:44,0.10226014133068743
+Perum Perhutani KPH Sukabumi- Rental Mobil,1,2026-08-01 13:34:30,0.9667108959920203
+Perum Perhutani KPH Sumedang - Rental Mobil,1,2026-08-01 15:02:09,0.9732876400501425
+Perum Perhutani KPH Surakarta - Rental Mobil,0,2026-11-01 09:17:20,0.10932846032618718
+Perum Perhutani KPH Tasikmalaya - Rental Mobil,1,2026-08-01 14:29:25,0.9717314413741303
+Perum Perhutani KPH Telawa - Rental Mobil,0,2026-11-01 09:31:21,0.1111256929679549
+Perum Perhutani KPH Tuban - Rental Mobil,1,2026-08-01 12:53:41,0.9912127052502177
+Perum Perhutani KPHW I Pekalongan - Rental Mobil,1,2026-08-01 15:24:09,0.9183767625261334
+Perum Perhutani KPHW III Salatiga - Rental Mobil,1,2026-08-01 15:16:23,0.9037089759509055
+Perum Perhutani KPHW IV Rembang - Rental Mobil,1,2026-08-01 15:02:13,0.9040723818073848
+Perum Perhutani PHW III Jombang - Rental Mobil,1,2026-08-01 12:46:44,0.9918044713993245
+Perum Perhutani PHW V Jember - Rental Mobil,1,2026-07-01 11:01:52,0.9740902934345227
+Perumda Air Minum Tirta Kahuripan Kabupaten Bogor - Rental Mobil,0,2028-03-18 16:14:12,0.1188492385776689
+Perumda Tirta Manuntung - Rental Mobil,0,2026-10-14 08:57:56,0.05621691016190984
+RSAD Udayana Denpasar - Rental,1,2024-11-07 09:45:42,0.9948979126594002
+RSUD Karel Sadsuitubun - Rental,0,2029-01-06 11:20:22,0.10051247154306084
+Rumah Sakit Paru Dr.H.A. Rotinsulu - Rental Mobil,0,2027-09-01 09:37:59,0.061454922169359064
+Rumah Tahanan Negara Kelas IIA Ambon - Rental Mobil,1,2026-05-01 17:42:00,0.900501663517938
+"STIE Mahaputra Riau, STIE Mahaputra Riau",1,2024-02-08 00:00:00,0.9556003895193463
+Solok,0,2027-01-20 07:00:00,0.03875685977298897
+UUS YUSWANDHIKA,1,2026-07-26 07:00:00,0.9636201068780007
+Universitas Islam Negeri Sunan Kalijaga Yogyakarta - Rental Mobil,0,2027-01-12 08:42:39,0.10534466339403789

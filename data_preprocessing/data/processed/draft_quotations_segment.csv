@@ -1,0 +1,15 @@
+Customer,draft_quote_count,latest_draft_date,draft_project_value,days_since_draft,is_orphan
+PT Bank Negara Indonesia Tbk - Rental Mobil,1,2024-09-23 09:38:11,0.0,743,False
+PT LSAG Cable Solutions - Rental,1,2023-01-17 07:00:00,39000000.0,1358,False
+PT Pegadaian (Persero) Kantor Pusat - Rental Mobil,3,2024-02-27 14:28:32,1365959985.0,952,False
+PT Pegadaian - Kanwil Manado Rental Komputer,1,2022-05-12 07:00:00,295159.545,1608,False
+PT Pegadaian Galeri 24 - Rental Komputer,1,2023-10-10 07:00:00,453299998.248,1092,False
+PT Pegadaian Kanwil Bandung - Rental Komputer,1,2021-12-21 07:00:00,415656647.28,1750,False
+PT Pegadaian Kanwil Jakarta IX - Rental Komputer,7,2022-09-23 07:00:00,47633796.752000004,1474,False
+PT Pegadaian Kanwil Jakarta IX - Rental Mobil,11,2023-03-13 07:00:00,18193131982.996002,1303,False
+PT Pegadaian Kanwil Jakarta IX - Rental Sepeda Motor,7,2022-12-20 07:00:00,1014734961.21,1386,False
+PT Pegadaian Kanwil Palembang - Rental Komputer,1,2022-05-18 07:00:00,42120000.0,1602,False
+PT Pegadaian Kanwil Pekanbaru - Rental Komputer,1,2022-01-21 07:00:00,65760000.0,1719,False
+PT. Pegadaian Kanwil Jakarta VIII - Rental Komputer,2,2022-01-20 07:00:00,3375000.0,1720,False
+Perum Perhutani - Rental Mobil,1,2023-06-21 07:00:00,71904823200.0,1203,False
+Perum Perhutani KPH Banyuwangi Utara - Rental Mobil,1,2026-08-31 10:12:23,17679999.64,36,True
